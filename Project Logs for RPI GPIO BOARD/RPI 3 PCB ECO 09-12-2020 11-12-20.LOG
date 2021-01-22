@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=DHT? NewDesignator=DHT1
+Change Component Designator: OldDesignator=servo? NewDesignator=servo1
+Added Pin To Net: NetName=NetDHT?_2 Pin=RPI1-36
+Added Pin To Net: NetName=NetRPI1_10 Pin=servo1-2
+Change Net Name : Old Net Name=NetDHT?_2 New Net Name=NetDHT1_2

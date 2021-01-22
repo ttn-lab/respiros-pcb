@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [RPI 3_pour.PcbDoc]
+   Generated File[RPI 3_pour-RoundHoles.TXT]
+   Generated File[RPI 3_pour-SlotHoles.TXT]
+   Generated File[RPI 3_pour.LDP]
+   Generated File[RPI 3_pour.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:26:52 On 11/12/2020
